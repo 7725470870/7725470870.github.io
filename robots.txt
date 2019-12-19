@@ -1,0 +1,8 @@
+User-agent: *
+Host: https://story-msk.ru
+Sitemap: https://story-msk.ru/sitemap.xml
+Disallow: /js
+Disallow: /css
+Disallow: /fonts
+Disallow: /scss
+Disallow: /images
